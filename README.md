@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter, Project Management**
 
-- 💬 Ask me about **Android, C++, Flutter**
+- 💬 Ask me about **Android, C++, DSA, Flutter**
 
 - 📫 How to reach me **bansalankit424@gmail.com**
 
